@@ -4,7 +4,7 @@
 💻 Computer Science Undergraduate  
 🚀 Focused on problem-solving and building real-world software systems
 
----
+---  
 
 ## 🧠 About Me
 I am a Computer Science student passionate about writing clean code,

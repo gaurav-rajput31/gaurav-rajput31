@@ -1,8 +1,8 @@
 # Hi 👋, I'm Gaurav Rajput
 
-🎯 Aspiring Software Development Engineer  
-💻 Computer Science Undergraduate  
-🚀 Focused on problem-solving and building real-world software systems
+ Software Development Engineer  
+ Computer Science Undergraduate  
+ Focused on problem-solving and building real-world software systems
 
 ---  
 
